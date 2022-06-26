@@ -6,7 +6,7 @@ import * as superfluid from 'https://cdn.skypack.dev/pin/@superfluid-finance/sdk
 
 import { ethers } from "https://cdnjs.cloudflare.com/ajax/libs/ethers/5.6.9/ethers.esm.js";
 
-const LIVEPEER_API_KEY = "96723baa-ee6f-4c6b-869b-0a110f8e27a6"
+const LIVEPEER_API_KEY = "c7a799f6-6087-4561-8bad-8da497f96cba"
 
 const urlParams = new URLSearchParams(window.location.search);
 let username = urlParams.get('u');
